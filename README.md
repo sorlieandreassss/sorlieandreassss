@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Andreas
 
-<!--
-**sorlieandreassss/sorlieandreassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Starting my coding journey and excited to build amazing things!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate developer at the beginning of my tech adventure. I believe in learning by doing and am excited to contribute to the developer community. Currently exploring various technologies and working on building my first projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Web Development Fundamentals
+- Python Programming
+- Version Control with Git
+- Software Development Best Practices
+
+### 🎯 2024 Goals
+- Create my first full-stack project
+- Contribute to open-source projects
+- Build a strong coding portfolio
+- Connect with other developers
+
+### 💡 Interests
+- Web Development
+- Software Engineering
+- Problem Solving
+- Clean Code Practices
+- 
+---
+### 🌟 "Every expert was once a beginner." 
+---
