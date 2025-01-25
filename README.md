@@ -11,7 +11,7 @@ I'm a passionate developer at the beginning of my tech adventure. I believe in l
 - Version Control with Git
 - Software Development Best Practices
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - Create my first full-stack project
 - Contribute to open-source projects
 - Build a strong coding portfolio
